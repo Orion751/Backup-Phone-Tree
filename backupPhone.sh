@@ -5,7 +5,7 @@
 #
 #	if path contains subdirectories
 #		for each subdir
-#			return backup(subdir)
+#			backup(subdir)
 #	else
 #		return
 #
