@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #backup(path)
 #	copy; (See if syntax for bitpim is cp dir dest vs dir dest/newName
 #
